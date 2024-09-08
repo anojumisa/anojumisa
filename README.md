@@ -9,7 +9,7 @@
 </div>
 
 <style>
-    @import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&family=Satisfy&family=Tomorrow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Yatra+One&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&family=Satisfy&family=Tomorrow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Yatra+One&display=swap');
 
   .wave {
     display: inline-block;
@@ -64,23 +64,26 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anojumisa&background=282828&stroke=282828&ring=8ec07c&fire=8ec07c&currStreakLabel=8ec07c&sideNums=8ec07c&dates=8ec07c&sideLabels=fabd2f&currStreakNum=fabd2f)](https://git.io/streak-stats)
 
-
 ## 🏆 GitHub Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=anojumisa&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Activity Graph
+
 [![Ano's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anojumisa&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📌 Pinned Repositories
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anojumisa&repo=FSSE_JAN24_GroupF_GFP&bg_color=282828&text_color=8ec07c&cache_seconds=86400)](https://github.com/anojumisa/FSSE_JAN24_GroupF_GFP)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anojumisa&repo=milestone-2-anojumisa&bg_color=282828&text_color=8ec07c&cache_seconds=86400)](https://github.com/anojumisa/milestone-2-anojumisa)
 
 ## 🛠️ Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![NextJS](https://img.shields.io/badge/-Next.js-05122A?style=flat&amp;logo=next.js)&nbsp;
+![NextJS](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
@@ -89,8 +92,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ## 📖 Recent Blog Posts
+
 - [Python Environment and Package Management](https://www.linkedin.com/pulse/python-environment-dan-package-management-ano-jumisa-moecc/?trackingId=%2BrwI5xP%2FR1i1KK4TUxLEbg%3D%3D)
 - [Object Oriented Programming](https://www.linkedin.com/pulse/object-oriented-programming-oop-bagian-2-ano-jumisa-rbpwc/?trackingId=ORNDncnyT7uryrBbjVtVhg%3D%3D)
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anojumisa)
