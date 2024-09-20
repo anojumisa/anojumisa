@@ -1,4 +1,7 @@
+![Welcome Image](/anojumisa.gif)
+
 <div align="center">
+
   <h1>Hello there! 👋</h1>
   <p>
     <span>👋</span> I'm Ano Jumisa, a passionate developer with a love for creating innovative solutions and exploring new technologies. Here, you'll find a collection of my projects, contributions, and a glimpse into my coding journey. Whether you're a fellow developer, a recruiter, or just someone curious about my work, I hope you find something interesting and inspiring.
